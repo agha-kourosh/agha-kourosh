@@ -1,0 +1,3 @@
+- 👋 Hi, I’m kourosh, I’m 16 and I live in Iran/Mashhad.
+- 👀 I’m interested in web editing and playing violin.
+- 🌱 I’m currently learning "ruby"(a programing language).
